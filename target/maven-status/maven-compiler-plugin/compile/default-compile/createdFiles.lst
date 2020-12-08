@@ -1,2 +1,6 @@
+br/com/chagas/model/Pessoa.class
+br/com/chagas/model/Lancamento.class
+br/com/chagas/model/TipoLancamento.class
 br/com/chagas/servlet/OlaMundoServlet.class
+br/com/chagas/util/CriarTabelas.class
 br/com/chagas/App.class
